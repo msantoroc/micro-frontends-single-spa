@@ -1,1 +1,1 @@
-Micro frontend developed with Single-SPA
+Micro frontends developed with Single-SPA
